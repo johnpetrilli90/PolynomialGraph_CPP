@@ -1,2 +1,6 @@
 ﻿  ConsolePolynominalGraph.cpp
+c:\users\john.petrilli\source\repos\consolepolynominalgraph\consolepolynominalgraph\consolepolynominalgraph.cpp(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john.petrilli\source\repos\consolepolynominalgraph\consolepolynominalgraph\consolepolynominalgraph.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\john.petrilli\source\repos\consolepolynominalgraph\consolepolynominalgraph\consolepolynominalgraph.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\john.petrilli\source\repos\consolepolynominalgraph\consolepolynominalgraph\consolepolynominalgraph.cpp(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   ConsolePolynominalGraph.vcxproj -> C:\Users\john.petrilli\source\repos\ConsolePolynominalGraph\Debug\ConsolePolynominalGraph.exe
